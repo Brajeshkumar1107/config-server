@@ -13,4 +13,4 @@ spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 # JPA / Hibernate Configuration
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
-dept.message=Welcome from department
+dept.message=Good morning from department
